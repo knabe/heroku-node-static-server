@@ -1,0 +1,25 @@
+{
+  "name": "teg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knabe/TEG-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knabe/TEG-Challenge/issues"
+  },
+  "homepage": "https://github.com/knabe/TEG-Challenge#readme",
+  "engines": {
+    "node": "10.10.0"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
