@@ -1,5 +1,5 @@
 {
-  "name": "teg",
+  "name": "Heroku Barebones web server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/knabe/TEG-Challenge.git"
+    "url": "git+https://github.com/knabe/heroku-node-static-server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/knabe/TEG-Challenge/issues"
+    "url": "https://github.com/knabe/heroku-node-static-server/issues"
   },
-  "homepage": "https://github.com/knabe/TEG-Challenge#readme",
+  "homepage": "https://github.com/knabe/heroku-node-static-server#readme",
   "engines": {
     "node": "10.10.0"
   },
